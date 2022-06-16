@@ -35,8 +35,7 @@ github:
   username: go2engle             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
-
+  username: go2engle
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -44,7 +43,7 @@ social:
   email: go2engle@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/go2engle      # change to your twitter homepage
     - https://github.com/go2engle       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
