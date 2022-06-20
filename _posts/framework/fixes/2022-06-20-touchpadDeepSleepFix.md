@@ -1,6 +1,6 @@
 ---
 title: Touchpad issues after deep sleep on PopOS 22.04
-date: 2021-02-09
+date: 2022-06-20
 categories: [Framework, fixes]
 tags: [framework,ubuntu,fixes]     # TAG names should always be lowercase
 ---
