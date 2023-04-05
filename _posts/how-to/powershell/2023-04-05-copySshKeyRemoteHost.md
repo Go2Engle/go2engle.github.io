@@ -10,13 +10,13 @@ To generate SSH keys in PowerShell, follow these steps:
 
 1. Open PowerShell by clicking the Start button and searching for PowerShell.
 
-2. Type ssh-keygen and press Enter. This will start the process of generating your SSH keys.
+2. Type `ssh-keygen` and press Enter. This will start the process of generating your SSH keys.
 
-3. You'll be prompted to enter a file name for your keys. The default file name is id_rsa, which is fine for most use cases. Press Enter to accept the default file name.
+3. You'll be prompted to enter a file name for your keys. The default file name is `id_rsa`, which is fine for most use cases. Press Enter to accept the default file name.
 
 4. You'll be prompted to enter a passphrase for your keys. This is optional, but highly recommended for added security. If you don't want to use a passphrase, simply press Enter twice.
 
-5. Your keys will be generated and saved to your user profile directory in the .ssh folder. By default, this directory is located at $env:USERPROFILE\.ssh. You should see two files: id_rsa (your private key) and id_rsa.pub (your public key).
+5. Your keys will be generated and saved to your user profile directory in the .ssh folder. By default, this directory is located at `$env:USERPROFILE\.ssh`. You should see two files: id_rsa (your private key) and id_rsa.pub (your public key).
 
 # Copying SSH keys to a remote Linux host
 Once you've generated your SSH keys, you'll need to copy them to the remote Linux host that you want to connect to. To do this, follow these steps:
