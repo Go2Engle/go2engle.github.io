@@ -14,8 +14,8 @@ The first step in installing Pop Shell is to open a terminal and enter the follo
 
 ``` shell
 sudo dnf install gnome-shell-extension-pop-shell
-This command will install the Pop Shell extension for GNOME.
 ```
+This command will install the Pop Shell extension for GNOME.
 
 ## Step 2: Log Out or Reboot
 After installing Pop Shell, you'll need to log out of your current session or reboot your computer in order for the changes to take effect.
