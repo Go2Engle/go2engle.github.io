@@ -7,7 +7,7 @@ tags: [docker,container]     # TAG names should always be lowercase
 
 ## Introduction
 
-A problem I have ran into many of times on docker host when trying to prune them is the overlays2 folder still contains larg ammounts of data. Running the correct prune command when on the latest version of docker seems to do the trick.
+A problem I have ran into many of times on docker host when trying to prune them is the overlays2 folder still contains large amounts of data. Running the correct prune command when on the latest version of docker seems to do the trick.
 
 ## Steps
 1. Updated to the latest version of docker
