@@ -81,3 +81,5 @@ Replace "<container-id>" with the actual ID or name of your LXC container.
 ## Conclusion
 
 You've successfully configured your Proxmox LXC container to mount an SMB share, allowing your containerized applications to access remote storage resources securely. This setup can be particularly beneficial for applications like Docker containers that require access to external data or media files.
+
+Source: https://forum.proxmox.com/threads/tutorial-unprivileged-lxcs-mount-cifs-shares.101795/post-555014
