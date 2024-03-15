@@ -1,6 +1,6 @@
 ---
 title: Kubeconfig merging on Windows with Powershell 
-date: 2024-04-15
+date: 2024-03-15
 categories: [How-to, Kubernetes, Powershell]
 tags: [kubernetes,k8s,k3s,howto,Powershell]     # TAG names should always be lowercase
 ---
