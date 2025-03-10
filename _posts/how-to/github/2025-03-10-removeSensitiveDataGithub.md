@@ -5,8 +5,6 @@ categories: [How-to, GitHub]
 tags: [github, git, bfg, security, sensitive-data]     # TAG names should always be lowercase
 ---
 
-# Remove Sensitive Data from GitHub
-
 In this tutorial we are going to be using nix-shell so we do not have to install any dependencies on our machines.
 
 1. Run the below command to start a nix-shell with the needed tools.
